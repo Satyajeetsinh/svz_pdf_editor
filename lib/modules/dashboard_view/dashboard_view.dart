@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 class DashBoardView extends StatefulWidget {
+  static const route = '/dashboard-screen';
   const DashBoardView({Key? key}) : super(key: key);
 
   @override
